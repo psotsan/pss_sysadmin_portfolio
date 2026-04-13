@@ -1,3 +1,4 @@
+![LFCS](https://img.shields.io/badge/LFCS-Certified-blue)
 # Pedro Sotorrío
 **Linux Systems Administrator (LFCS) | Field Service Engineer**
 
