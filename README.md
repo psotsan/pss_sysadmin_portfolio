@@ -7,9 +7,8 @@ in lab and hospital environments. Expanding expertise into SysAdmin/DevOps
 with focus on automation and reliability.
 
 ## Infrastructure Projects (In Development)
-- [Backup System with Validation](https://github.com/psotsan/backup-automation) — *WIP*
-- [Containerized Monitoring] — *Coming Soon*  
-- [Server Hardening with Dry Run] — *Coming Soon*
+- [Backup System with Validation (Bash)](https://github.com/psotsan/backup-automation) — Done
+- [Docker Inspector CLI (Go)] — *Coming Soon*  
 
 ## Python Development
 This profile includes Python development projects (Pygame), 
